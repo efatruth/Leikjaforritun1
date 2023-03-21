@@ -1,3 +1,3 @@
 # Leikjaforritun1
 ## myndband
-## skriptur
+### skriptur(skriftur)
