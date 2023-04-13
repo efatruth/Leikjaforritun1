@@ -2,7 +2,7 @@
 ## myndband https://www.youtube.com/watch?v=m3LPDz0dcXg
 ### [skriptur](skriftur)
 
-Scene View er gagnvirki sandkassinn þinn. Þú munt nota senuskjáinn til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og alla aðra GameObjects.
+Scene View: er gagnvirki sandkassinn þinn. Þú munt nota senuskjáinn til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og alla aðra GameObjects.
 
 Game View: Það er dæmigert fyrir síðasta, birta leikinn þinn.
 
