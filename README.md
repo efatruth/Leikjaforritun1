@@ -10,4 +10,4 @@ Project: er safn af skrám og möppum, frekar en bara ein ákveðin Unity Projec
 
 Hierarchy: inniheldur lista yfir hvert GameObject.
 
-Inspector: sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal alla meðfylgjandi íhluti og eiginleika þeirra. Hér breytir þú virkni GameObjects í atriðinu þínu.
+Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal alla meðfylgjandi íhluti og eiginleika þeirra. Hér breytir þú virkni GameObjects í atriðinu þínu.
