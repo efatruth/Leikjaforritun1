@@ -1,4 +1,6 @@
 # Leikjaforritun1
+#verkefni_1
+
 ## myndband https://www.youtube.com/watch?v=m3LPDz0dcXg
 ### [skriptur](skriftur)
 
@@ -11,3 +13,5 @@ Project: er safn af skrám og möppum, frekar en bara ein ákveðin Unity Projec
 Hierarchy: inniheldur lista yfir hvert GameObject.
 
 Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal alla meðfylgjandi íhluti og eiginleika þeirra. Hér breytir þú virkni GameObjects í atriðinu þínu.
+
+#Verkefni_2
