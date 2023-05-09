@@ -15,4 +15,5 @@ Hierarchy: inniheldur lista yfir hvert GameObject.
 Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal alla meðfylgjandi íhluti og eiginleika þeirra. Hér breytir þú virkni GameObjects í atriðinu þínu.
 
 #Verkefni_2
+#### https://www.youtube.com/watch?v=5HBVOdffVqQ
 ### [skriptur_v2](skriftur_v2)
