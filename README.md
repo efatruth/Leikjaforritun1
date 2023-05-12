@@ -17,3 +17,21 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 #Verkefni_2
 #### myndband:https://www.youtube.com/watch?v=5HBVOdffVqQ
 ### [skriptur_v2](skriftur_v2)
+
+
+
+
+
+#Verkefni_3
+#### myndband:https://www.youtube.com/watch?v=5HBVOdffVqQ
+### [skriptur_v3](skriftur_v3)
+
+1.	Stutt lýsing á leiknum.
+
+Í þessi leiknum Leikmaður deyr ef hann labbar yfir vatn eða fellur fram af heimi eða fjalli. T.d pakkin “Wather shaders”
+Skriptur “vel commenteraðar”  og	Möppur í Assets eru vel skipulagðar(material,prefabs,scriptur,scenes)
+•	Leikmaðurinn geta skotið lika
+•	Koma veg fyrir að “player” geti farið framm af ystu brún heimsins(t.d deyr)
+•	Setji inn hljóð t.d þegar playerinn fær stig eða deyr
+	Allar skriftur með íslenskum athugasemdum úr leik.
+  Asset mappan (möppur vel skipulagðar, engan óþarfa)
