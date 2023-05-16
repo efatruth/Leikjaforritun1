@@ -23,7 +23,7 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 
 
 #Verkefni_3
-#### myndband:https://www.youtube.com/watch?v=5HBVOdffVqQ
+#### myndband:https://www.youtube.com/watch?v=kBXFMOFk4xA
 ### [skriptur_v3](skriftur_v3)
 
 1.	Stutt lýsing á leiknum.
