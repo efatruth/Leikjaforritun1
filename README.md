@@ -2,7 +2,7 @@
 
 #verkefni_1
 #### myndband:https://www.youtube.com/watch?v=m3LPDz0dcXg
-### [skriptur_1](skriftur_1)
+### [skriptur](skriftur)
 
 Scene View: er gagnvirki sandkassinn þinn. Þú munt nota senuskjáinn til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og alla aðra GameObjects.
 
