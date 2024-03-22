@@ -7,13 +7,13 @@ public class CameraController : MonoBehaviour
     public GameObject player;
     private Vector3 offset;
 
-    // Start er kallað fyrir fyrstu rammauppfærslu
+    // Start er kallaÃ° fyrir fyrstu rammauppfÃ¦rslu
     void Start()
     {
         offset = transform.position - player.transform.position;
     }
 
-    // Uppfærsla er kölluð einu sinni í hvern ramma
+    // UppfÃ¦rsla er kÃ¶lluÃ° einu sinni Ã­ hvern ramma
     void LateUpdate()
     {
         transform.position = player.transform.position + offset;
