@@ -1,3 +1,4 @@
+#Livinus Felix Bassey
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,7 +7,7 @@ public class Rotator : MonoBehaviour
 {
 
 
-    // þetta er bara að snúa safngripunum
+    // Ã¾etta er bara aÃ° snÃºa safngripunum
     void Update()
     {
         transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
