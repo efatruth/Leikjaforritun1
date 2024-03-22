@@ -1,3 +1,4 @@
+#Livinus Felix Bassey
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,7 +13,7 @@ public class PlayerController : MonoBehaviour
     private float movementX;
     private float movementY;
 
-    // Start er kallað fyrir fyrstu rammauppfærslu
+    // Start er kallaÃ° fyrir fyrstu rammauppfÃ¦rslu
     //0reference
     void Start()
     {
@@ -30,7 +31,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    //Fyrirkomulagið, hraði og hreyfing
+    //FyrirkomulagiÃ°, hraÃ°i og hreyfing
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
